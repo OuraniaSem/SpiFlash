@@ -12,7 +12,13 @@ The analysis pipeline requires the following input files:
 - JSON file (.json):
   contains metadata about each trial, including:
   a. Trial number and type
-  b. Amplitude and Frequency of the stimulus 
+  b. Amplitude and Frequency of the stimulus
+
+## Running the GUI
+To launch the GUI:
+1. Open a terminal (Anaconda Prompt or system terminal)
+2. Navigate to the SpiFlash directory
+3. Run: python gui.py
 
 ## Features
 - Behavioral data extraction
@@ -20,7 +26,7 @@ The analysis pipeline requires the following input files:
 - Psychometric curve fitting
 - Visualization utilities
 
-Related publications:
+## Related publications:
 For the Go/No-Go Detection task: 
 O.Semelidou, T.Gauvrit, C.Vandromme, et al. “Diminished Signal-to-Noise Ratio Disrupts Somatosensory Population Encoding and Drives Tactile Hyposensitivity in the Fmr1−/y Autism Model.” Advanced Science13, no. 28 (2026):   e19479. https://doi.org/10.1002/advs.202519479
 
